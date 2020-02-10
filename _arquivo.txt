@@ -1,0 +1,22 @@
+
+-- Sites e Recursos --
+----------------------
+
+- https://discordapp.com/invite/kDsZfGc
+email: jander.marques@gmail.com
+senha: #rt5h0m23
+
+- https://zerotomastery.io/blog/?tag=WDM
+
+- https://codesandbox.io/s/new
+
+- https://github.com/nvm-sh/nvm
+- https://gitforwindows.org/
+
+- https://nodejs.org/en/
+- https://nodejs.org/en/download/
+
+- https://reactjs.org/docs/create-a-new-react-app.html
+
+- https://classic.yarnpkg.com/en/docs/install#windows-stable
+- https://code.visualstudio.com/
