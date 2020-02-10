@@ -20,3 +20,18 @@ senha: #rt5h0m23
 
 - https://classic.yarnpkg.com/en/docs/install#windows-stable
 - https://code.visualstudio.com/
+
+-- Git / GitHub --
+------------------
+
+> clip < ~/.ssh/id_rsa.pub
+Copiar a chave SSH.
+
+> git branch
+Exibe a lista de branchs.
+
+> git branch <nome da branch>
+Cria uma nova branch.
+
+> git checkout <nome da branch>
+Muda para uma nova branch.
