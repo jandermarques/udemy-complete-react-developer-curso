@@ -35,3 +35,6 @@ Cria uma nova branch.
 
 > git checkout <nome da branch>
 Muda para uma nova branch.
+
+> git push --set-upstream origin <nome da branch>
+Apos criar uma branch, faz um pull na branch enviando para a origem.
